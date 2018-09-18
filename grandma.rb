@@ -4,7 +4,7 @@ def speak_to_grandma
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif "I LOVE YOU GRANDMA!" != "I LOVE YOU GRANDMA!"
     puts "HUH?! SPEAK UP, SONNY!"
-  else 
+  else
 end
 
 # Whatever you say to grandma, she should respond with
